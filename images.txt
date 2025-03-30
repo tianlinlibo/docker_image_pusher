@@ -1,4 +1,4 @@
-apecloud/oracledb_exporter:0.5.2
+--platform=linux/arm64  fuhouyu/nacos-server:2.4.3-dm
 #nacos/nacos-peer-finder-plugin:1.1
 #nginx
 #支持私库
