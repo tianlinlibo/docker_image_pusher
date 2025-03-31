@@ -1,4 +1,4 @@
---platform=linux/arm64  fuhouyu/nacos-server:2.4.3-dm
+--platform=linux/arm64  nginx:1.27.4-alpine3.21-slim
 #nacos/nacos-peer-finder-plugin:1.1
 #nginx
 #支持私库
