@@ -1,4 +1,4 @@
---platform=linux/arm64  nginx:1.27.4-alpine3.21-slim
+xuxueli/xxl-job-admin:3.0.0
 #nacos/nacos-peer-finder-plugin:1.1
 #nginx
 #支持私库
