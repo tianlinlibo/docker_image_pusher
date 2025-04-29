@@ -1,4 +1,5 @@
-xuxueli/xxl-job-admin:3.0.0
+redislabs/memtier_benchmark:2.1.4
+#xuxueli/xxl-job-admin:3.0.0
 #nacos/nacos-peer-finder-plugin:1.1
 #nginx
 #支持私库
