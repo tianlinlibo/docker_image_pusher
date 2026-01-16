@@ -1,4 +1,5 @@
---platform=linux/arm64 fuhouyu/nacos-server:2.5.0-dm  
+privoce/vocechat-server:v0.5.9
+#--platform=linux/arm64 fuhouyu/nacos-server:2.5.0-dm  
 #fuhouyu/nacos-server:3.0.0-polardb
 #redislabs/memtier_benchmark:2.1.4
 #xuxueli/xxl-job-admin:3.0.0
